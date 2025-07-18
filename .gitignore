@@ -1,0 +1,12 @@
+# Java / Spring Boot
+mapamundi-spring-boot/target/
+mapamundi-spring-boot/*.class
+mapamundi-spring-boot/*.jar
+mapamundi-spring-boot/*.war
+mapamundi-spring-boot/*.iml
+mapamundi-spring-boot/.idea/
+mapamundi-spring-boot/*.log
+
+# General
+.DS_Store
+Thumbs.db
